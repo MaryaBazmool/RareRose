@@ -64,7 +64,7 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 // شعار التطبيق
                 Image.asset(
-                  'assets/images/logo.png', // تأكد أن هذه الصورة موجودة
+                  'assets/images/RareRose.jpg',
                   width: 120,
                   height: 120,
                 ),
